@@ -1,5 +1,7 @@
 💖 Lucas & Duda — Nosso Cantinho do Amor
 
+![Texto alternativo](imagens/assets.png)
+
 Um site romântico criado para celebrar o amor entre Lucas e Duda.
 Desenvolvido com HTML, CSS e JavaScript, o projeto reúne fotos, música, efeitos animados e uma contagem do tempo juntos — tudo com muito carinho. 🌹
 
@@ -33,7 +35,6 @@ Google Fonts — Tipografia romântica (“Great Vibes” e “Dancing Script”
 ├── ...
 ├── Arctic Monkeys - I Wanna Be Yours.mp3
 └── README.md
-
 
 💡 As imagens e o áudio devem estar na mesma pasta do arquivo index.html.
 
